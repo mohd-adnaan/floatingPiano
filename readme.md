@@ -11,8 +11,9 @@ There is also a filter applied to get just the fingertips using the distance bet
 
 * The last part includes the PyAutoGUI library which allows you to do the keyboard operations depending on the co-ordintates of you hand movements(fingertips to be precise).
 [Link to virtual piano keyboard](https://www.onlinepianist.com/virtual-piano)
+![Demonstration](.vscode/FinalOutput/1.png "Demonstration picture")
+![Demonstration](.vscode/FinalOutput/2.png "Demonstration picture2")
 
-![Demonstration](./FinalOutput/1 "Demonstration picture")
 
 ## To run the project-
 * Fork the project and clone it in your repo.
